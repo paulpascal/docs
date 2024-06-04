@@ -13,7 +13,7 @@
     "@docsearch/react": "^3.2.1",
     "@headlessui/react": "^1.7.13",
     "@markdoc/markdoc": "0.1.7",
-    "@markdoc/next.js": "0.1.6",
+    "@markdoc/next.js": "0.3.7",
     "@opentelemetry/api": "^1.4.1",
     "@opentelemetry/instrumentation": "^0.38.0",
     "@opentelemetry/resources": "^1.12.0",

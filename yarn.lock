@@ -230,10 +230,10 @@
   resolved "https://registry.npmjs.org/@markdoc/markdoc/-/markdoc-0.1.7.tgz#c4a4876ddb4886a45a9d16462277f57fde576f54"
   integrity sha512-Dz7+VP5I3m/DFpLnzjwvXv64XmneYNzy4adm5uJSkcAJxFlJujIn+hCmMh11k70w+y5Qu18sjngetpuP+3570g==
 
-"@markdoc/next.js@0.1.6":
-  version "0.1.6"
-  resolved "https://registry.npmjs.org/@markdoc/next.js/-/next.js-0.1.6.tgz#dee33b28f2f05c0c22a7aeebca7a4ec5685dc7bf"
-  integrity sha512-AkILWoOg3zMrTPDubQgq5lRZ22UuFQsRn/J8oaYUYx/w8RtZ3ZACDNwX9hWVVDT3AcGokNSXaFRsQeWbmpPoFQ==
+"@markdoc/next.js@0.3.7":
+  version "0.3.7"
+  resolved "https://registry.yarnpkg.com/@markdoc/next.js/-/next.js-0.3.7.tgz#0bfd3bcd2b060c45ab35245f6b928a35929f8e3d"
+  integrity sha512-lp/J0Lfx8YPWes82HOMSDvXBfIkJxPKfEwgzGTwfFBJUGBNM1TBvchaaAzDP2X+HRORP4jNcGbJrZoXSdon0BQ==
   dependencies:
     js-yaml "^4.1.0"
 
